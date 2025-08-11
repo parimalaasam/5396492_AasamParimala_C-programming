@@ -1,0 +1,10 @@
+In the intermediate part of the C Programming course on SoloLearn, I explored more advanced topics that deepen understanding and improve real-world programming skills. The topics covered include:
+Structures (struct) and Unions
+Memory Management (dynamic memory with malloc, calloc, free)
+File Handling (reading/writing files using fopen, fscanf, fwrite, etc.)
+The C Preprocessor (#define, #include, conditional compilation)
+Typedefs and Enums
+Pointers to Structures
+Function Pointers (basic intro)
+Error Handling with errno
+These topics helped me understand how C manages memory, how data is organized and manipulated at a low level, and how to write modular and efficient code.The lessons were practical, and the built-in Knowledge Checks on SoloLearn helped reinforce each topic effectively.
