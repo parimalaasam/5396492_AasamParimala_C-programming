@@ -1,0 +1,7 @@
+📜 C Programming Certificate – SoloLearn
+I successfully completed the C Programming course on SoloLearn, where I gained a strong foundation in the following topics:
+Basic Concepts of C
+Conditionals and Loops
+Arrays and Strings
+Functions and Pointers
+The course provided clear and understandable explanations, and the interactive Knowledge Checks were especially helpful in reinforcing the concepts.
